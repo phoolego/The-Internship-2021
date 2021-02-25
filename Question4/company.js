@@ -34,9 +34,6 @@ const company = {
     } catch (err) {
       console.log(err)
     }
-  },
-  something() {
-    console.log('some')
   }
 }
 
